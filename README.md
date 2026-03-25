@@ -19,9 +19,11 @@ Ingeniero en Sistemas con más de 7 años de experiencia en desarrollo backend, 
 ---
 
 ### 🚀 Featured Projects
-* **[Project Name]** - Brief description of the solution (e.g., Restaurant Management API).
-* **[Project Name]** - Key feature or tech used.
 
+* **[P_Restaurante2](https://github.com/EddyGarcia09/P_Restaurante2)** 🏗️ *(In Progress)*
+  - A robust Restaurant Management API built with **.NET 10** and **SQL Server**.
+  - Implementation of **Database-First** scaffolding and advanced CRUD controllers.
+  - Focus on clean architecture and optimized SQL queries.
 ---
 
 ### 📈 GitHub Stats
