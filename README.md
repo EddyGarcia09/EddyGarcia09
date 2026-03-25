@@ -1,7 +1,9 @@
 # Hi there! I'm Raul Eduardo 👋 
 ### Systems & Software Engineer | Backend & Database Developer
 
-Passionate about building scalable Web APIs and high-performance database architectures. Currently specializing in Database Development with over 7 years of experience in the tech industry.
+Systems Engineer with over 7 years of experience in backend development, relational and NoSQL database management, technical support, and application analysis. Proficient in Java, .NET, C#, and C++, with a strong ability to optimize processes, resolve complex issues, and collaborate effectively in team environments. Experienced working across development, QA, and production environments, with a focus on technical documentation, automation, and continuous improvement.
+
+Ingeniero en Sistemas con más de 7 años de experiencia en desarrollo backend, gestión de bases de datos relacionales y NoSQL, soporte técnico y análisis de aplicaciones. Dominio de lenguajes como Java, .NET, C# y C++, con alta capacidad para optimizar procesos, resolver incidencias complejas y trabajar en entornos colaborativos. Experiencia en entornos de desarrollo, QA y producción, con enfoque en documentación técnica, automatización y mejora continua.
 
 ---
 
